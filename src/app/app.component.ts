@@ -10,4 +10,6 @@ export class AppComponent {
   oddNumbers = [1, 3, 5];
   evenNumbers = [2, 4];
   onlyOdd = false;
+  value = 5;
+  /*value = 10;*/ // we have a value and we can change it
 }
